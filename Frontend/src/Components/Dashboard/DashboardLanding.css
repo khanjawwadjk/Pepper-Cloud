@@ -1,0 +1,28 @@
+.subHeading{
+    position: relative;
+    top: -15px;
+}
+
+.formsList {
+    text-align: left;
+    position: relative;
+    left: 8rem;
+}
+.formsList > h3 {
+    font-size: 30px;
+}
+.formsList > p {
+    font-size: 12px;
+    position: relative;
+    top: -25px;
+}
+
+.cardsList{
+    display: flex;
+    text-align: left;
+    flex-wrap: wrap;
+}
+
+.cardsList > Card{
+    margin: 30px;
+}

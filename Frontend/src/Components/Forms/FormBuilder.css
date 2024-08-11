@@ -1,0 +1,29 @@
+
+
+
+.buttonsDiv{
+    margin-top: 3rem;
+}
+
+.buttongroup{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.buttongroup > Button {
+    margin: 5px;
+    margin-top: 1.5rem;
+}
+
+.submitDiv{
+    margin-top: 1rem;
+}
+
+.inputFieldsDiv{
+    display: flex;
+}
+
+.inputFieldsDiv > Paper {
+    flex-wrap: nowrap;
+}
